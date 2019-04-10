@@ -1,0 +1,27 @@
+{
+  "name": "react-officialdates",
+  "version": "1.0.0",
+  "description": "Returns if date is an official US Holiday or if falls on a weekend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampladoc/react-official-dates.git"
+  },
+  "keywords": [
+    "dates",
+    "moment",
+    "holidays"
+  ],
+  "author": "Lorenzo Olliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampladoc/react-official-dates/issues"
+  },
+  "homepage": "https://github.com/sampladoc/react-official-dates#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
